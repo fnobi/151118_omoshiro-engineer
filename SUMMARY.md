@@ -10,6 +10,7 @@
     - [Androidのバージョン](android-version.md)
   - [プロジェクトの中身を見てみよう](file-tree.md)
   - [AndroidManifest.xmlをざっくり読む](android-manifest.md)
+    - [Activityとはなんぞや](about-activity.md)
     - [主なパーミッション](permission.md)
   - [アイコンを変えてみよう](change-icon.md)
 - [第１回・完](fin.md)

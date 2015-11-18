@@ -15,4 +15,3 @@
   - [アイコンを変えてみよう](change-icon.md)
 - [第１回・完](fin.md)
   - [今回の宿題](homework.md)
-- [追加コンテンツ案](additional.md)
